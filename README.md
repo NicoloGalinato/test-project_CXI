@@ -1,16 +1,16 @@
-A simple vanilla PHP project for testing functionality, learning concepts, or building basic web applications without frameworks.
+**A simple vanilla PHP project for testing functionality, learning concepts, or building basic web applications without frameworks.**
 
 ## 📌 File Structure
 login-system/
-├── config/
-│   └── database.php
-├── css/
-│   └── style.css
-├── includes/
-│   └── functions.php
-├── login.php
-├── dashboard.php
-└── logout.php
+- ├── config/
+- │   └── database.php
+- ├── css/
+- │   └── style.css
+- ├── includes/
+- │   └── functions.php
+- ├── login.php
+- ├── dashboard.php
+- └── logout.php
 
 
 ## 🚨 Security Features Implemented:
