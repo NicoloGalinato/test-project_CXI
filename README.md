@@ -1,7 +1,7 @@
 **A simple vanilla PHP project for testing functionality, learning concepts, or building basic web applications without frameworks.**
 
 ## 📌 File Structure
-login-system/
+- login-system/
 - ├── config/
 - │   └── database.php
 - ├── css/
